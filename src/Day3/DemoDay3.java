@@ -7,6 +7,6 @@ public static void main(String[] args) {
 	public void myName(String name, String Lastname){
 	String name= "Gibet";
 	String lastName= "Telma";
-	System.out.println(name + " + lastName);
+	System.out.println(name + '"' + lastName);
 }
 }
